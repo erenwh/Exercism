@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/python/leap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/python/reverse-string" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/python/hello-world" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/python/isogram" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/python/pangram" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/python/rna-transcription" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/python/isbn-verifier" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
