@@ -1,4 +1,8 @@
+import re
+
+
 def verify(isbn):
+    """
     # Trim isbn string of dash
     isbn = isbn.replace('-', '')
     # Length check
@@ -22,8 +26,8 @@ def verify(isbn):
 
         sum_of_times += digit * (index + 1)
         # print(digit, sum_of_times, index)
+    """
+    return re.search('[0-9][-][0-9]{3}[-][0-9]{5}[-]([0-9]|[X])', isbn) is not None
 
-    return sum_of_times % 11 == 0
 
-
-print(verify('3-598-2X507-9'))
+print(verify('3-598-21508-X'))
