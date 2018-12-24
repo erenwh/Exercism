@@ -10,8 +10,9 @@
       <sourceFolder url="file://$MODULE_DIR$/python/rna-transcription" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/python/isbn-verifier" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/python/hamming" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.6 (exercism)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">
