@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/python/pangram" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/python/rna-transcription" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/python/isbn-verifier" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/python/hamming" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
